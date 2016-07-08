@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Learning Team B Project
+</name>
+</assembly>
+<members>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSet.Client_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSet.Client_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSet.Client_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.Client_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Learning_Team_B_Project.LTB_CRM_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Learning_Team_B_Project.LTB_CRM_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Learning_Team_B_Project.LTB_CRM_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Learning_Team_B_Project.LTB_CRM_DBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList.Employee_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList.Job_Titles_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList.Employee_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList.Job_Titles_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList.Employee_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeList.Job_Titles_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.Employee_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.Job_Titles_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.UpdateUpdatedRows(Learning_Team_B_Project.LTB_CRM_EmployeeList,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.UpdateInsertedRows(Learning_Team_B_Project.LTB_CRM_EmployeeList,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.UpdateDeletedRows(Learning_Team_B_Project.LTB_CRM_EmployeeList,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.UpdateAll(Learning_Team_B_Project.LTB_CRM_EmployeeList)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.LTB_CRM_EmployeeListTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Learning_Team_B_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Learning_Team_B_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Learning_Team_B_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

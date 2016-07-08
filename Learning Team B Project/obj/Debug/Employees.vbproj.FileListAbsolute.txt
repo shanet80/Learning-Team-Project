@@ -1,0 +1,77 @@
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\bin\Debug\Learning Team B Project.exe.config
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\bin\Debug\Learning Team B Project.exe
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\bin\Debug\Learning Team B Project.pdb
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\bin\Debug\Learning Team B Project.xml
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmEmployees.resources
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\obj\Debug\Learning_Team_B_Project.Resources.resources
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\obj\Debug\Employees.vbproj.GenerateResource.Cache
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\obj\Debug\Learning Team B Project.exe
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\obj\Debug\Learning Team B Project.xml
+c:\users\isabella\documents\visual studio 2013\Projects\Employees\Learning Team B Project\obj\Debug\Learning Team B Project.pdb
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe.config
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.exe
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.xml
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.pdb
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe.config
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.exe
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.xml
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.pdb
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\LTB_CRM_DB.mdf
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\LTB_CRM_DB_log.ldf
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.pdb
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.xml
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmEmployees.resources
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.Resources.resources
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Employees.vbproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\bin\Debug\Learning Team B Project.exe.config
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning Team B Project.exe
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning Team B Project.xml
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning Team B Project.pdb
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\bin\Debug\LTB_CRM_DB.mdf
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\bin\Debug\LTB_CRM_DB_log.ldf
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\bin\Debug\Learning Team B Project.exe
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\bin\Debug\Learning Team B Project.pdb
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\bin\Debug\Learning Team B Project.xml
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Employees.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmEmployees.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning_Team_B_Project.Resources.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Employees.vbproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmReports.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmBilling.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project1\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmContact.resources
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Employees.vbprojResolveAssemblyReference.cache
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmBilling.resources
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmReports.resources
+C:\Users\212028003\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmContact.resources
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe.config
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.exe
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.xml
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.pdb
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\bin\Debug\LTB_CRM_DB.mdf
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\bin\Debug\LTB_CRM_DB_log.ldf
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.pdb
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.xml
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Employees.vbprojResolveAssemblyReference.cache
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmBilling.resources
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmEmployees.resources
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmReports.resources
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmContact.resources
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.Resources.resources
+C:\Users\Isabella\Documents\Visual Studio 2013\Projects\Learning Team Project\Learning Team Project\Learning Team B Project\obj\Debug\Employees.vbproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\bin\Debug\LTB_CRM_DB.mdf
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\bin\Debug\LTB_CRM_DB_log.ldf
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe.config
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.exe
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.pdb
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\bin\Debug\Learning Team B Project.xml
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmBilling.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmEmployees.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmReports.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.frmContact.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning_Team_B_Project.Resources.resources
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Employees.vbproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.exe
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.xml
+C:\Users\Owner\Google Drive\School Work\Phoenix\POS408\Learning Team Project\Learning Team B Project\obj\Debug\Learning Team B Project.pdb
